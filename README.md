@@ -13,12 +13,14 @@
 
 # profanity-tron-后门盗u-实锤审计报告（针对profanity-tron源码）
 
-以下两位作者均为一人：
+以下作者均为一人：
 <img width="2611" height="1521" alt="image" src="https://github.com/user-attachments/assets/e0e7bd37-26e7-473e-b256-1563d03c4ce8" />
 
 审计范围1：https://github.com/sodasord/profanity-tron
 
 审计范围2：https://github.com/sponsord/profanity-tron
+
+审计范围3：2026年4月25换号：https://github.com/GenTronx/gpu
 
 看雪分析：https://bbs.kanxue.com/thread-289060.htm
 <img width="2753" height="1731" alt="image" src="https://github.com/user-attachments/assets/a414fc55-4162-46d5-b038-6f1b05ebff2d" />
