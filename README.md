@@ -20,7 +20,8 @@
 
 审计范围2：https://github.com/sponsord/profanity-tron
 
-审计范围3：2026年4月25换号：https://github.com/GenTronx/gpu
+审计范围3：2026年4月25换号：https://github.com/GenTronx/gpu<img width="2613" height="1731" alt="image" src="https://github.com/user-attachments/assets/7ee5f407-4c73-4199-9de7-607bceae01ff" />
+
 
 看雪分析：https://bbs.kanxue.com/thread-289060.htm
 <img width="2753" height="1731" alt="image" src="https://github.com/user-attachments/assets/a414fc55-4162-46d5-b038-6f1b05ebff2d" />
