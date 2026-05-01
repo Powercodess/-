@@ -13,6 +13,7 @@
 
 # profanity-tron-后门盗u-实锤审计报告（针对profanity-tron源码）
 # 注意！经其他作者举报，此作者已删库改名为：GenTronx  地址：https://github.com/GenTronx/gpu
+# 已换成：https://github.com/ninazero/tron
 
 以下作者均为一人：
 <img width="2611" height="1521" alt="image" src="https://github.com/user-attachments/assets/e0e7bd37-26e7-473e-b256-1563d03c4ce8" />
